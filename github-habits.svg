@@ -140,12 +140,12 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">HCL</span>
-                                <div class="bar" style="width: 59.514618765526464%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="width: 59.5544507123052%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 <span class="value">74%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Shell</span>
-                                <div class="bar" style="width: 7.085801643416778%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 7.037001625394397%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">9%</span>
                             </div>
                         </div>
