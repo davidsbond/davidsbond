@@ -23,3 +23,5 @@
 <a href="https://github.com/davidsbond">
     <img align="center" width="49%" src="./achievements.svg" />
 </a>
+
+<a rel="me" href="https://hachyderm.io/@dsb" />
